@@ -1,6 +1,6 @@
 <div align="center">
   
-![](https://github.com/flows-network/.github/raw/main/profile/flows-network.webp)
+[![Hero graph](https://github.com/flows-network/.github/raw/main/profile/flows-network.webp)](https://flows.network/)
 
 Flows.network is an automation platform to build bots, connections, and workflows for online services (SaaS) using serverless functions. Both Rust and JavaScript are supported!
   

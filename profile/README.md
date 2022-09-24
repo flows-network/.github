@@ -20,3 +20,11 @@ Flows.network is an automation platform to build bots, connections, and workflow
 * [Streamline and automate GitHub Issue responses](https://docs.flows.network/docs/cookbook/github/issue-review-bot)
 * [DevRel automation](https://docs.flows.network/docs/cookbook/github/devrel-engagement)
 
+## Contributors
+
+Thank y'all!
+
+<a href="https://github.com/wasmedge/wasmedge/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=flows-network/flow-functions" />
+</a>
+

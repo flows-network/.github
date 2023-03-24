@@ -8,17 +8,13 @@ Flows.network is an automation platform to build bots, connections, and workflow
 
 </div>
 
-## Getting started
+## Examples
 
-* [Rust developers](https://docs.flows.network/docs/category/rust-developers)
-* [JavaScript developers](https://docs.flows.network/docs/category/javascript-developers)
+* [Build a ChatGPT telegram bot](https://github.com/flows-network/telegram-gpt)
+* [Build a ChatGPT Slack bot](https://github.com/flows-network/slack-chatgpt)
+* [Build a ChatGPT GitHub bot](https://github.com/flows-network/chatgpt-github-app)
 
-## GitHub automation recipes
-
-* [Customize your GitHub PR Review workflow to save time and reduce errors](https://docs.flows.network/docs/cookbook/github/pr-review-bot)
-* [Reduce alert fatigue through GitHub notification triage](https://docs.flows.network/docs/cookbook/github/github-notification)
-* [Streamline and automate GitHub Issue responses](https://docs.flows.network/docs/cookbook/github/issue-review-bot)
-* [DevRel automation](https://docs.flows.network/docs/cookbook/github/devrel-engagement)
+See more examples [here](https://github.com/flows-network/awesome-flow-fucntions/)
 
 ## Contributors
 
